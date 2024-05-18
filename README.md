@@ -5,6 +5,7 @@ Control a spaceship using the arrow keys and press space to shoot down asteroids
 ## technical details
 
 In this project, I learned how to create simple partricle effects in the form of the space ship's exhaust when throttling forwards. This effect is done by spawning small red squares of various sizes and launching them in a random angle within a certain range (within a cone area), and slowly changing their transparency to create the effect of the exhaust fading into space.
+Astroids also have explosion particle effects when destroyed that uses largely the same principle as the spaceship's exhaust particles.
 
 The movement of the space ship is controlled by accelerating and decelerating X and Y vectors.
 
