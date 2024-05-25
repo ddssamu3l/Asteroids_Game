@@ -1,4 +1,4 @@
-# Re-creation of the famous arcade game Asteroids!
+# Re-creation of the arcade game Asteroids!
 
 Control a spaceship using the arrow keys and press space to shoot down asteroids. Beware as enemy ships can spawn to try and shoot you down as well. You have three lives, upon losing a life, gain an invincibility shield for a small amound of time.
 
